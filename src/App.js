@@ -7,17 +7,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Portfolio</h1>
+        <h2>School:</h2>
+        <p>I go to ~~~ school I am first grade ~~~</p>
+        <h2>Recent awards / achievements:</h2>
+        <p>I recently participated in ~~~ </p>
+        <p>I recently became a school president in ~~~ </p>
+        <p>My soccer team ~~~ </p>
+        <h2>Favorite Subject:</h2>
+        <p>My favorite subject is</p>
+        <h2>What I want to do when I grow up</h2>
+        <p>When I grow up ~~~</p>
+        <h2>Side projects:</h2>
+        <p>when I was 5th grader I ~~</p>
       </header>
     </div>
   );
