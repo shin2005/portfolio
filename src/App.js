@@ -18,7 +18,10 @@ function App() {
         <h2>What I want to do when I grow up</h2>
         <p>When I grow up I want to be a software developer</p>
         <h2>Side projects:</h2>
-        <p>when I was 6th grader I was the best kid in my class.</p>
+        <p>
+          when I was a 6th grader, I was the best kid in my class. I was the
+          smartest and always got very high scores on the exams.{" "}
+        </p>
       </header>
     </div>
   );
