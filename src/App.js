@@ -14,7 +14,10 @@ function App() {
         <p>I recently participated in a science contest </p>
         <p>I recently became a class president in 2018 </p>
         <h2>Favorite Subject:</h2>
-        <p>My favorite subject is science. </p>
+        <p>
+          My favorite subject is science. I like quantum mechanics, although
+          it`s true that it`s very hard.{" "}
+        </p>
         <h2>What I want to do when I grow up</h2>
         <p>When I grow up I want to be a software developer</p>
         <h2>Side projects:</h2>
