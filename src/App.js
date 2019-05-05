@@ -16,7 +16,16 @@ function App() {
         <h2>Favorite Subject:</h2>
         <p>
           My favorite subject is science. I like quantum mechanics, although
-          it`s true that it`s very hard.{" "}
+          it`s true that it`s very hard.Quantum mechanics is the field of
+          science that tries to explain the behavior of particles on the
+          sub-atomic level. Quantum mechanics began in the 20c, when Heisenberg,
+          Schrödinger, Plank, Einstein, and others, announced theories that
+          would contribute to change modern physics forever. It led to the
+          creation of the{" "}
+          <a href="https://en.wikipedia.org/wiki/Standard_Model" target="blank">
+            Standard Model
+          </a>
+          .
         </p>
         <h2>What I want to do when I grow up</h2>
         <p>When I grow up I want to be a software developer</p>
