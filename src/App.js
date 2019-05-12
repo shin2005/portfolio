@@ -15,17 +15,36 @@ function App() {
         <p>I recently became a class president in 2018 </p>
         <h2>Favorite Subject:</h2>
         <p>
-          My favorite subject is science. I like quantum mechanics, although
-          it`s true that it`s very hard.Quantum mechanics is the field of
-          science that tries to explain the behavior of particles on the
-          sub-atomic level. Quantum mechanics began in the 20c, when Heisenberg,
-          Schrödinger, Plank, Einstein, and others, announced theories that
-          would contribute to change modern physics forever. It led to the
-          creation of the{" "}
+          My favorite subject is science. I like{" "}
+          <a
+            href="https://en.wikipedia.org/wiki/Quantum_mechanics"
+            target="blank"
+          >
+            quantum mechanics
+          </a>
+          , although it`s true that it`s very hard.Quantum mechanics is the
+          field of science that tries to explain the behavior of particles on
+          the sub-atomic level. Quantum mechanics began in the 20c, when
+          Heisenberg, Schrödinger, Plank, Einstein, and others, announced
+          theories that would contribute to change modern physics forever. It
+          led to the creation of the{" "}
           <a href="https://en.wikipedia.org/wiki/Standard_Model" target="blank">
             Standard Model
           </a>
           .
+        </p>
+        <h3>Useful sites related to coding</h3>
+        <p>
+          1.
+          <a href="https://github.com/" target="blank">
+            Github
+          </a>
+        </p>
+        <p>
+          2.
+          <a href="https://developer.mozilla.org/en-US/" target="blank">
+            Mozilla Developer Network(MDN)
+          </a>
         </p>
         <h2>What I want to do when I grow up</h2>
         <p>When I grow up I want to be a software developer</p>
