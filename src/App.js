@@ -10,7 +10,7 @@ function App() {
         <h1>Portfolio</h1>
         <h2>School: </h2>
         <p>I go to Yeoksam Middle School I am second grade </p>
-        <h3>Recent awards / achievements: Award in science writing contest</h3>
+        <h2>Recent awards / achievements: Award in science writing contest</h2>
         <p>I recently participated in a science contest </p>
         <p>
           I recently became a class president in 2018. It was a close vote
@@ -36,7 +36,7 @@ function App() {
           </a>
           .
         </p>
-        <h3>Useful sites related to coding</h3>
+        <h2>Useful sites related to coding</h2>
         <p>
           1.
           <a href="https://github.com/" target="blank">
@@ -49,6 +49,12 @@ function App() {
             Mozilla Developer Network(MDN)
           </a>
         </p>
+        <p>
+          3.
+          <a href="https://stackoverflow.com/" target="blank">
+            Stack Overflow
+          </a>
+        </p>
         <h2>What I want to do when I grow up</h2>
         <p>When I grow up I want to be a software developer</p>
         <h2>Side projects:</h2>
@@ -57,6 +63,19 @@ function App() {
           made out of every precious metal in the game, and you could make
           lighting strike at the temple. It could be seen from far away, and it
           was a great landmark.
+        </p>
+        <h2>Social</h2>
+        <p>
+          Twitter:{" "}
+          <a href="https://twitter.com/cieloeste0303" target="blank">
+            신동건(@cieloeste0303)
+          </a>
+        </p>
+        <p>
+          Twinkle:
+          <a href="https://www.twinkle.network/users/gunshin" target="blank">
+            gunshin
+          </a>
         </p>
       </header>
     </div>
