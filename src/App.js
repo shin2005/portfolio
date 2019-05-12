@@ -50,8 +50,10 @@ function App() {
         <p>When I grow up I want to be a software developer</p>
         <h2>Side projects:</h2>
         <p>
-          when I was a 6th grader, I was the best kid in my class. I was the
-          smartest and always got very high scores on the exams.{" "}
+          On Minecraft, I worked on a massive temple above the world. It was
+          made out of every precious metal in the game, and you could make
+          lighting strike at the temple. It could be seen from far away, and it
+          was a great landmark.
         </p>
       </header>
     </div>
