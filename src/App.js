@@ -12,7 +12,10 @@ function App() {
         <p>I go to Yeoksam Middle School I am second grade </p>
         <h3>Recent awards / achievements: Award in science writing contest</h3>
         <p>I recently participated in a science contest </p>
-        <p>I recently became a class president in 2018 </p>
+        <p>
+          I recently became a class president in 2018. It was a close vote
+          between 6 kids, but I won by just getting 17 people, just over half.{" "}
+        </p>
         <h2>Favorite Subject:</h2>
         <p>
           My favorite subject is science. I like{" "}
