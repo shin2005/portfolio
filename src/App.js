@@ -56,7 +56,13 @@ function App() {
           </a>
         </p>
         <h2>What I want to do when I grow up</h2>
-        <p>When I grow up I want to be a software developer</p>
+        <p>
+          When I grow up I want to be a software developer. One project I
+          thought of was making a website that would host games, but the games
+          would be made by the users. The users could code the games to work on
+          the website(with a little help from the company) and the profit could
+          be shared with the company.{" "}
+        </p>
         <h2>Side projects:</h2>
         <p>
           On Minecraft, I worked on a massive temple above the world. It was
