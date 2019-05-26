@@ -11,7 +11,16 @@ function App() {
         <h2>School: </h2>
         <p>I go to Yeoksam Middle School I am second grade </p>
         <h2>Recent awards / achievements: Award in science writing contest</h2>
-        <p>I recently participated in a science contest </p>
+        <p>
+          I recently participated in a science contest. It was a writing contest
+          about the use of{" "}
+          <a href="https://en.wikipedia.org/wiki/Big_data" target="blank">
+            big data
+          </a>
+          , and how it can be of use to humans.There are many uses of big data,
+          because it utilizes massive amounts of information for various
+          services. The data can act as statistics for developers to use.{" "}
+        </p>
         <p>
           I recently became a class president in 2018. It was a close vote
           between 6 kids, but I won by just getting 17 people, just over half.{" "}
@@ -34,7 +43,12 @@ function App() {
           <a href="https://en.wikipedia.org/wiki/Standard_Model" target="blank">
             Standard Model
           </a>
-          .
+          . The Standard Model attempts to explain the basic particles that make
+          up the universe, so as to understand physical phenomenons on the
+          nanoscale(nano=10^-9).{" "}
+          <image src="/Users/anjiyoung/Developer/portfolio/src/Standard Model.svg.png">
+            The Standard Model
+          </image>
         </p>
         <h2>Useful sites related to coding</h2>
         <p>
@@ -69,6 +83,18 @@ function App() {
           made out of every precious metal in the game, and you could make
           lighting strike at the temple. It could be seen from far away, and it
           was a great landmark.
+        </p>
+        <h2>Stuff that Interests Me</h2>
+        <p>
+          One of the things that I am most interested in is electronics. What
+          interests me the most is news about Apple because it is my favorite
+          comapany. But these days, I am getting more interested in the changes
+          of the entire 4th Industrial Revolution, ranging from AI to
+          self-driving cars to data privacy. I think that knowing the problems
+          of the sudden changes of the 4th Industrial Revolution is as important
+          as the changes because we will have to fix the changes someday, and
+          its better to change them quickly. So I think that being aware is very
+          important.
         </p>
         <h2>Social</h2>
         <p>
