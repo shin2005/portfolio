@@ -106,7 +106,7 @@ function App() {
         <p>
           Twinkle:
           <a href="https://www.twinkle.network/users/gunshin" target="blank">
-            gunshin
+            gunshin(challenge me to chess on the chat!)
           </a>
         </p>
       </header>
