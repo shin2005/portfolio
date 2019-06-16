@@ -1,16 +1,21 @@
-import { React, ImageBackground } from "react";
-import "./App.css";
+import React from "react";
+import Cover from "./cover.jpg";
+import { css } from "emotion";
 
 function App() {
   return (
-    <div className="App">
-      <div style={{ padding: "1rem" }}>
-        <ImageBackground
-          source={{
-            uri: "/Users/anjiyoung/Developer/portfolio/src/IMG_1515.JPG"
-          }}
-          style={{ width: 80, height: 80 }}
-        />
+    <div
+      className={css`
+        background-image: url("${Cover}");
+        background-size: cover;
+        overflow: hidden;
+        text-align: center;
+        a {
+          color: #fff;
+        }
+      `}
+    >
+      <div style={{ padding: "1rem", color: "#fff" }}>
         <h1>Portfolio</h1>
         <h2>School: </h2>
         <p>I go to Yeoksam Middle School I am second grade </p>
