@@ -1,6 +1,8 @@
 import React from "react";
 import Cover from "./cover.jpg";
 import { css } from "emotion";
+//import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import ReactPlayer from "react-player";
 
 function App() {
   return (
@@ -118,6 +120,21 @@ function App() {
             gunshin
           </a>
           (challenge me to chess on the chat!)
+        </p>
+        <p>
+          Youtube:{" "}
+          <a
+            href="https://www.youtube.com/channel/UCEaSW6TjclcuZzx7c1XUlvg"
+            target="blank"
+          >
+            Dong Gun Shin
+          </a>
+          I have a new video!! return{" "}
+          <ReactPlayer
+            url="https://www.youtube.com/watch?v=X3hrWGH8Ve8"
+            controls
+            light
+          />
         </p>
       </div>
     </div>
