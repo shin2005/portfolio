@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dotenv": "^8.1.0",
     "emotion": "10.0.14",
+    "greenlock-express": "^2.7.14",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
     "lodash": "4.17.15",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
