@@ -129,7 +129,7 @@ function App() {
           >
             Dong Gun Shin
           </a>
-          I have a new video!! return{" "}
+          I have a new video!!{" "}
           <ReactPlayer
             url="https://www.youtube.com/watch?v=X3hrWGH8Ve8"
             controls
