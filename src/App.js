@@ -3,7 +3,7 @@ import React from "react";
 //import Cover2 from "./cover2.jpg";
 import Cover3 from "./cover3.jpg";
 import { css } from "emotion";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+//import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import ReactPlayer from "react-player";
 
 function App() {
@@ -109,6 +109,14 @@ function App() {
           its better to change them quickly. So I think that being aware is very
           important.
         </p>
+        <h2>My Devices</h2>
+        <p>1. iPhone 6 Gold 16GB</p>
+        <p>2. Airpods 1st generation</p>
+        <p>3. 12.9 inch iPad Pro Space Grey 64GB 3rd generation</p>
+        <p>4. Early 2015 MacBook Pro 13 inch 128GB</p>
+        <p>5. Early 2016 iMac 21.5 inch 1TB</p>
+        <p>6. Logitech G703 Gaming Mouse</p>
+        <p>7. Logitech G512 Carbon Gaming Keyboard</p>
         <h2>Social</h2>
         <p>
           Twitter:{" "}
