@@ -3,7 +3,7 @@ import React from "react";
 //import Cover2 from "./cover2.jpg";
 import Cover3 from "./cover3.jpg";
 import { css } from "emotion";
-//import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import ReactPlayer from "react-player";
 
 function App() {
