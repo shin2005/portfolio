@@ -6,6 +6,9 @@ import { css } from "emotion";
 //import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 //import ReactPlayer from "react-player";
 import Intro from "./Intro";
+import Test from "./test";
+import September from "./September";
+import { Route, Switch, Link } from "react-router-dom";
 
 function App() {
   return (
@@ -20,6 +23,16 @@ function App() {
         }
       `}
     >
+      <div>
+        <Link to="/">Home</Link>
+        <Link to="/test">Test</Link>
+        <Link to="/September">maybe im cool</Link>
+      </div>
+      <Switch>
+        <Route exact path="/" component={Intro} />
+        <Route path="/test" component={Test} />
+        <Route path="/becool" component={September} />
+      </Switch>
       <Intro />
     </div>
   );

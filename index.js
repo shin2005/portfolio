@@ -1,5 +1,3 @@
-"use strict";
-
 const app = require("./app");
 
 require("greenlock-express")
