@@ -114,7 +114,7 @@ export default function Intro() {
         </a>
       </p>
       <p>
-        Twinkle:
+        Twinkle:{" "}
         <a href="https://www.twinkle.network/users/gunshin" target="blank">
           gunshin
         </a>

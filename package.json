@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/react": "^16.9.4",
     "dotenv": "^8.1.0",
     "emotion": "10.0.14",
     "express": "^4.17.1",
