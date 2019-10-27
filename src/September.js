@@ -22,6 +22,7 @@ export default function September() {
         }}
       >
         coming soon, please wait...
+        <h1>I don`t know what to do</h1>
       </h1>
     </div>
   );

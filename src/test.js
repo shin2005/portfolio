@@ -27,7 +27,7 @@ export default function Test() {
       >
         <h2>Stuff I want</h2>
         <p></p>
-        <p>1. AirPods 2nd (or 3rd) generation</p>
+        <p>1. AirPods 2nd (or pro) generation</p>
         <p>2. iPhone 11 (Purple or Green)</p>
         <p>3. a new watch (anything) </p>
         <p>4. new mechanical pencil</p>
