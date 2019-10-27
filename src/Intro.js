@@ -118,7 +118,8 @@ export default function Intro() {
         <a href="https://www.twinkle.network/users/gunshin" target="blank">
           gunshin
         </a>
-        (challenge me to chess on the chat!)
+        (challenge me to chess on the chat!) recommendations for chess
+        challenge- jerry
       </p>
       <p>
         Youtube:{" "}
