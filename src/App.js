@@ -24,9 +24,9 @@ function App() {
       `}
     >
       <div>
-        <Link to="/">Home</Link>
-        <Link to="/test">Test</Link>
-        <Link to="/September">maybe im cool</Link>
+        <Link to="/">Home </Link>
+        <Link to="/test">Test </Link>
+        <Link to="/September">Maybe I`m Cool</Link>
       </div>
       <Switch>
         <Route exact path="/" component={Intro} />
