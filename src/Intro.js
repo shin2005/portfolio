@@ -1,30 +1,30 @@
-import React from "react";
-import ReactPlayer from "react-player";
+import React from 'react';
+import ReactPlayer from 'react-player';
 
 export default function Intro() {
   return (
-    <div style={{ padding: "1rem", color: "#fff" }}>
+    <div style={{ padding: '1rem', color: '#fff' }}>
       <h1>Portfolio</h1>
       <h2>School: </h2>
-      <p>I go to Yeoksam Middle School I am second grade </p>
+      <p>I go to Yeoksam Middle School and I will become third grade soon</p>
       <h2>Recent awards / achievements: Award in science writing contest</h2>
       <p>
         I recently participated in a science contest. It was a writing contest
-        about the use of{" "}
+        about the use of{' '}
         <a href="https://en.wikipedia.org/wiki/Big_data" target="blank">
           big data
         </a>
         , and how it can be of use to humans.There are many uses of big data,
         because it utilizes massive amounts of information for various services.
-        The data can act as statistics for developers to use.{" "}
+        The data can act as statistics for developers to use.{' '}
       </p>
       <p>
         I recently became a class president in 2018. It was a close vote between
-        6 kids, but I won by just getting 17 people, just over half.{" "}
+        6 kids, but I won by just getting 17 people, just over half.{' '}
       </p>
       <h2>Favorite Subject:</h2>
       <p>
-        My favorite subject is science. I like{" "}
+        My favorite subject is science. I like{' '}
         <a
           href="https://en.wikipedia.org/wiki/Quantum_mechanics"
           target="blank"
@@ -36,13 +36,13 @@ export default function Intro() {
         sub-atomic level. Quantum mechanics began in the 20c, when Heisenberg,
         Schrödinger, Plank, Einstein, and others, announced theories that would
         contribute to change modern physics forever. It led to the creation of
-        the{" "}
+        the{' '}
         <a href="https://en.wikipedia.org/wiki/Standard_Model" target="blank">
           Standard Model
         </a>
         . The Standard Model attempts to explain the basic particles that make
         up the universe, so as to understand physical phenomenons on the
-        nanoscale(nano=10^-9).{" "}
+        nanoscale(nano=10^-9).{' '}
         <image src="/Users/anjiyoung/Developer/portfolio/src/Standard Model.svg.png">
           The Standard Model
         </image>
@@ -72,7 +72,7 @@ export default function Intro() {
         of was making a website that would host games, but the games would be
         made by the users. The users could code the games to work on the
         website(with a little help from the company) and the profit could be
-        shared with the company.{" "}
+        shared with the company.{' '}
       </p>
       <h2>Side projects:</h2>
       <p>
@@ -102,19 +102,19 @@ export default function Intro() {
       <p>7. Logitech G512 Carbon Gaming Keyboard</p>
       <h2>Social</h2>
       <p>
-        Twitter:{" "}
+        Twitter:{' '}
         <a href="https://twitter.com/cieloeste0303" target="blank">
           신동건(@cieloeste0303)
         </a>
       </p>
       <p>
-        Github:{" "}
+        Github:{' '}
         <a href="https://github.com/shin2005" target="blank">
           shin2005
         </a>
       </p>
       <p>
-        Twinkle:{" "}
+        Twinkle:{' '}
         <a href="https://www.twinkle.network/users/gunshin" target="blank">
           gunshin
         </a>
@@ -122,14 +122,14 @@ export default function Intro() {
         challenge- jerry
       </p>
       <p>
-        Youtube:{" "}
+        Youtube:{' '}
         <a
           href="https://www.youtube.com/channel/UCEaSW6TjclcuZzx7c1XUlvg"
           target="blank"
         >
           Dong Gun Shin
         </a>
-        I have a new video!!{" "}
+        I have a new video!!{' '}
         <ReactPlayer
           url="https://www.youtube.com/watch?v=X3hrWGH8Ve8"
           controls

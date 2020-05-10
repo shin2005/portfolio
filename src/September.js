@@ -1,6 +1,6 @@
-import React from "react";
-import { css } from "emotion";
-import { Cover3 } from "./cover3.jpg";
+import React from 'react';
+import { css } from 'emotion';
+import { Cover3 } from './cover3.jpg';
 
 export default function September() {
   return (
@@ -18,7 +18,7 @@ export default function September() {
     >
       <h1
         style={{
-          color: "white"
+          color: 'white'
         }}
       >
         coming soon, please wait...
