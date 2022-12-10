@@ -6,7 +6,7 @@
     "@types/react": "^16.9.11",
     "dotenv": "^8.2.0",
     "emotion": "10.0.17",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "greenlock-express": "^2.7.18",
     "http": "^0.0.0",
     "https": "^1.0.0",
